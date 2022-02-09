@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\bin\Debug\net5.0\Console Alıştırma.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\bin\Debug\net5.0\Console Alıştırma.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\bin\Debug\net5.0\Console Alıştırma.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\bin\Debug\net5.0\Console Alıştırma.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\bin\Debug\net5.0\Console Alıştırma.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\bin\Debug\net5.0\ref\Console Alıştırma.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\bin\Debug\net5.0\Console Alıştırma.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\obj\Debug\net5.0\Console Alıştırma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\obj\Debug\net5.0\Console Alıştırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\obj\Debug\net5.0\Console Alıştırma.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\obj\Debug\net5.0\Console Alıştırma.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\obj\Debug\net5.0\Console Alıştırma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\obj\Debug\net5.0\Console Alıştırma.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\obj\Debug\net5.0\ref\Console Alıştırma.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\obj\Debug\net5.0\Console Alıştırma.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS CODE\Console Alıştırma\obj\Debug\net5.0\Console Alıştırma.genruntimeconfig.cache

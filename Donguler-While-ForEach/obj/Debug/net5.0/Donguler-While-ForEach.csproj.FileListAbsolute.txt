@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\bin\Debug\net5.0\Donguler-While-ForEach.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\bin\Debug\net5.0\Donguler-While-ForEach.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\bin\Debug\net5.0\Donguler-While-ForEach.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\bin\Debug\net5.0\Donguler-While-ForEach.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\bin\Debug\net5.0\Donguler-While-ForEach.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\bin\Debug\net5.0\ref\Donguler-While-ForEach.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\bin\Debug\net5.0\Donguler-While-ForEach.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\obj\Debug\net5.0\Donguler-While-ForEach.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\obj\Debug\net5.0\Donguler-While-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\obj\Debug\net5.0\Donguler-While-ForEach.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\obj\Debug\net5.0\Donguler-While-ForEach.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\obj\Debug\net5.0\Donguler-While-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\obj\Debug\net5.0\Donguler-While-ForEach.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\obj\Debug\net5.0\ref\Donguler-While-ForEach.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\obj\Debug\net5.0\Donguler-While-ForEach.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Donguler-While-ForEach\obj\Debug\net5.0\Donguler-While-ForEach.genruntimeconfig.cache

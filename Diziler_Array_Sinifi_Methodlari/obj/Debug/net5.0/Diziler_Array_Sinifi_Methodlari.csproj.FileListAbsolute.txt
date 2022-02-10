@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\bin\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\bin\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\bin\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\bin\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\bin\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\bin\Debug\net5.0\ref\Diziler_Array_Sinifi_Methodlari.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\bin\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\obj\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\obj\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\obj\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\obj\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\obj\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\obj\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\obj\Debug\net5.0\ref\Diziler_Array_Sinifi_Methodlari.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\obj\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Diziler_Array_Sinifi_Methodlari\obj\Debug\net5.0\Diziler_Array_Sinifi_Methodlari.genruntimeconfig.cache

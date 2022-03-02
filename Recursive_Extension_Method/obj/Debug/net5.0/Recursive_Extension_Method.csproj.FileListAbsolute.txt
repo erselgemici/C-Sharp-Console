@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\bin\Debug\net5.0\Recursive_Extension_Method.exe
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\bin\Debug\net5.0\Recursive_Extension_Method.deps.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\bin\Debug\net5.0\Recursive_Extension_Method.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\bin\Debug\net5.0\Recursive_Extension_Method.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\bin\Debug\net5.0\Recursive_Extension_Method.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\bin\Debug\net5.0\ref\Recursive_Extension_Method.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\bin\Debug\net5.0\Recursive_Extension_Method.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\obj\Debug\net5.0\Recursive_Extension_Method.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\obj\Debug\net5.0\Recursive_Extension_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\obj\Debug\net5.0\Recursive_Extension_Method.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\obj\Debug\net5.0\Recursive_Extension_Method.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\obj\Debug\net5.0\Recursive_Extension_Method.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\obj\Debug\net5.0\Recursive_Extension_Method.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\obj\Debug\net5.0\ref\Recursive_Extension_Method.dll
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\obj\Debug\net5.0\Recursive_Extension_Method.pdb
+C:\Users\Lenovo\Desktop\Kodluyoruz Projelerim\VS Code\Recursive_Extension_Method\obj\Debug\net5.0\Recursive_Extension_Method.genruntimeconfig.cache
